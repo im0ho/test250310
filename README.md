@@ -27,9 +27,6 @@ head 2
 
 **사용자의 바탕화면 위에서 노닐며 상호작용하고, 일정을 챙겨주는 인공지능 기반 데스크톱 비서 펫입니다.**
 
-[![Platform](https://img.shields.io/badge/platform-Electron%20%7C%20React%20%7C%20Vite-61dafb.svg?style=flat-glass)](https://github.com/electron/electron)
-[![Model](https://img.shields.io/badge/AI%20Model-Google%20Gemini-orange.svg?style=flat-glass)](https://deepmind.google/technologies/gemini/)
-
 </div>
 
 ---
